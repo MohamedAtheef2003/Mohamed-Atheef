@@ -1,9 +1,11 @@
 💫 About Me:
-Hello, I am Mohamed Atheef 👋
+Hello, I am Mohamed Atheef Undergraduate student at University of Moratuwa, pursuing BSc (Hons) in IT at the Faculty of Information Technology. Interested in full stack development , software projects & Hardware Projects.
+ 👋
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/alicihancelik) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Mohamed Atheef-1129b4301/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-atheef-1a86a9351/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/atheef7180?igsh=amhxZWFtdnpndG4%3D&utm_source=qr) 
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atheefcse@gmail.com) 
@@ -43,6 +45,13 @@ Hello, I am Mohamed Atheef 👋
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
+
+## 📌 Projects
+- 🔹 Smart parcel sfety & Counter Mechine
+- 🔹 Smart Helmet for Accident Detection  
+- 🔹 Puzzle Based Learning Game for Kids  
+- 🔹 Smart Cricket Bat Swing Analyzer
+- 🔹 Smart Football Shooter
 
 
 # 📊 GitHub Stats:
